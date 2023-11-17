@@ -1,0 +1,23 @@
+/* src/app/user-list/user-list.component.css */
+
+.user-container {
+  margin: 20px;
+}
+
+.user-card {
+  background-color: #fff; /* Fondo blanco para tarjetas de usuario */
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+}
+
+.btn-primary {
+  background-color: #ff69b4; /* Color rosa medio para botones */
+  border-color: #ff69b4;
+}
+
+.btn-primary:hover {
+  background-color: #d63384; /* Cambia el color al pasar el ratón sobre el botón */
+  border-color: #d63384;
+}

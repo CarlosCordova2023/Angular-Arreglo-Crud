@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+/* src/styles.css */
+
+
+
+
+
+/* src/styles.css */
+
+body {
+  background-color: #ffc0cb; /* Color rosa claro, puedes cambiarlo según tus preferencias */
+}
+
+button {
+  background-color: #ff69b4; /* Color rosa medio, puedes cambiarlo según tus preferencias */
+  color: #fff; /* Texto en blanco para mayor contraste */
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #d63384; /* Cambia el color al pasar el ratón sobre el botón */
+}
+
+
+
+
